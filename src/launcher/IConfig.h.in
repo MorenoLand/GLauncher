@@ -3,7 +3,7 @@
 #ifndef ICONFIG_H
 #define ICONFIG_H
 
-#define HELPER_DLL_FILE    	"${PROJECT_NAME}.dll"
-#define TARGET_EXE_FILE		"${TARGET_EXE}"
+#define HELPER_DLL_FILE     "${PROJECT_NAME}.dll"
+#define TARGET_EXE_FILE     "${TARGET_EXE}"
 
-#endif
+#endif 
