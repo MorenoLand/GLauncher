@@ -3,7 +3,7 @@ set(CMAKE_GENERATOR_PLATFORM win32)
 
 project(GLauncher)
 
-set(TARGET_EXE "OG_Graal.exe")
+set(TARGET_EXE "Graal.exe")
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/bin)
 
